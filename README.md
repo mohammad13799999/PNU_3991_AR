@@ -9,7 +9,7 @@
 
 + [انگیزه نامه](https://github.com/mohammad13799999/sop)
 
-+ [مدرک جاوا اسکریپت](https://www.sololearn.com/Certificate/1024-20434739/pdf/)
++ [مدرک جاوا اسکریپت](https://www.sololearn.com/Certificate/1024-20434739/jpg)
 
 -------------------
 ## ترم مهر ماه 1399
