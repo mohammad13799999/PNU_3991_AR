@@ -5,11 +5,11 @@
 ---
 + [حساب گیت هاب](https://github.com/mohammad13799999)
 
-+ [آدرس رزومه](https://github.com/mohammad13799999/-/blob/gh-pages/index.md)
++ [آدرس رزومه](https://mohammad13799999.github.io/Resume/)
 
-+ [sop](https://github.com/mohammad13799999/sop)
++ [انگیزه نامه](https://github.com/mohammad13799999/sop)
 
-
++ [مدرک جاوا اسکریپت](https://www.sololearn.com/Certificate/1024-20434739/pdf/)
 
 -------------------
 ## ترم مهر ماه 1399
